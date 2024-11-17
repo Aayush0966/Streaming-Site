@@ -4,7 +4,7 @@ Streaming Site is a modern, responsive movie and TV watching website frontend bu
 
 ## 🚀 Demo
 
-You can view the live demo of the Streaming Site [here](https://moviesworld69.netlify.app/).
+You can view the live demo of the Streaming Site [here](https://streamingwebsite.netlify.app/).
 
 ## ✨ Features
 
@@ -26,7 +26,7 @@ To get started with the Streaming Site frontend, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Aayush0966/Streaming-Site-Frontend.git
+   git clone https://github.com/Aayush0966/Streaming-Site.git
    cd streaming-site
    ```
 
